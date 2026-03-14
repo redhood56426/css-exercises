@@ -40,3 +40,16 @@ div.text {
   font-size: 22px;
   font-weight: 100;
 }
+
+.para:first-child {
+  font-size: 35px;
+}
+
+#confirm-button{
+  background-color: green;
+  color: white;
+}
+
+.text:first-child{
+  font-weight: bold;
+}
